@@ -1,6 +1,6 @@
 Hi 👋, I'm `Mohsen Shabanian`.
 
-I'm mostly a self-study developer.
+I'm mostly a self-study developer. I'm starting programing with Qbasic and pascal. after that writing C and C++ programs in computer and microcontrollers. in recent years I'm usually deveping web-application with C# & PHP.
 
 ## Skills
 
@@ -32,5 +32,3 @@ I'm mostly a self-study developer.
 * linkdin [![linkdin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/mohsen-shabanian-8869b478)
 * github [![github](https://img.shields.io/github/followers/mohsen12999.svg?label=GitHub&style=social)](https://github.com/mohsen12999)
 * [youtube](https://www.youtube.com/user/mohsen12999)
-
-### Let's Connect :sunglasses:
