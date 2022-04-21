@@ -1,6 +1,6 @@
 Hi 👋, I'm `Mohsen Shabanian`.
 
-I'm mostly a self-study developer. I'm starting programing with Qbasic and pascal. after that writing C and C++ programs in computer and microcontrollers. in recent years I'm usually deveping web-application with C# & PHP.
+As a developer, I mostly self-study. Qbasic and Pascal were my first programming languages. After that, I wrote C and C++ programs for computers and microcontrollers. In recent years, I've developed web applications using C# and PHP.
 
 ## Skills :hammer_and_wrench:
 
