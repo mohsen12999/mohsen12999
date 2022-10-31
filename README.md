@@ -14,16 +14,16 @@ As a developer, I mostly self-study. Qbasic and Pascal were my first programming
 
 | Projects Name | Description |
 | ------------- |-------------|
-| [bookworm](https://github.com/mohsen12999/bookworm) | a simple app with laravel and react for read, write, buy, and sell books |
-| [noonap](https://github.com/mohsen12999/noonap) | SPA (single page application) in React with Typescript |
-| [C++ Blockchain](https://github.com/mohsen12999/cppblockchain) | base on [forod](https://github.com/fzerorubigd) :+1: Blockchain project |
-| [My Cheat Sheets](https://github.com/mohsen12999/myCheatSheets) | my note often about programming stuff |
-| [C/C++ Projects](https://github.com/mohsen12999/C-Cpp-Projects) | some little C or C++ project that I wrote for student |
-| [Python Projects](https://github.com/mohsen12999/python-project) | some little Python project that I wrote for fun |
-| [touristbin](https://github.com/mohsen12999/touristbin) | modified html template for a persian tourist agency |
-| [Project Euler Python](https://github.com/mohsen12999/project_euler_python) | try to solve some euler project with python |
-| [sudoku c#](https://github.com/mohsen12999/sudoku) | try write a program to solve sudoku in C#. but not work |
-| [website omid shirodi](https://github.com/mohsen12999/website-omid-shirodi) | html template for a artist and music teacher |
+| [bookworm](https://github.com/mohsen12999/bookworm) | a simple app with Laravel and react for reading, writing, buy, and selling books. |
+| [noonap](https://github.com/mohsen12999/noonap) | SPA (single page application) in React with Typescript. |
+| [C++ Blockchain](https://github.com/mohsen12999/cppblockchain) | base on [forod](https://github.com/fzerorubigd) :+1: Blockchain project. |
+| [My Cheat Sheets](https://github.com/mohsen12999/myCheatSheets) | my notes often about programming stuff. |
+| [C/C++ Projects](https://github.com/mohsen12999/C-Cpp-Projects) | some little C or C++ projects that I wrote for the students. |
+| [Python Projects](https://github.com/mohsen12999/python-project) | some little Python projects that I wrote for fun. |
+| [touristbin](https://github.com/mohsen12999/touristbin) | modified the HTML template and changed the language to Persian for the tourist agency. |
+| [Project Euler Python](https://github.com/mohsen12999/project_euler_python) | try to solve some Euler problems with python. |
+| [sudoku c#](https://github.com/mohsen12999/sudoku) | try to write a program to solve sudoku in C#, but it does not work yet. |
+| [website omid shirodi](https://github.com/mohsen12999/website-omid-shirodi) | The HTML template for an artist and music teacher. |
 
 ##  Let's Connect 😎
 
