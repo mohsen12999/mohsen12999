@@ -27,7 +27,7 @@ I'm committed to refining my skills and contributing to innovative projects. Ple
 | [sudoku c#](https://github.com/mohsen12999/sudoku) | try to write a program to solve sudoku in C#, but it does not work yet. |
 | [website Omid shirodi](https://github.com/mohsen12999/website-omid-shirodi) | The HTML template for an artist and music teacher. |
 | [Simple Persian Utils)](https://github.com/mohsen12999/simple-persian-utils)| simple npm package |
-| [Lyric Crawler]([lyric-crawler](https://github.com/mohsen12999/lyric-crawler)) | A crawler that fetches lyric data from a website and saves it |
+| [Lyric Crawler](https://github.com/mohsen12999/lyric-crawler)) | A crawler that fetches lyric data from a website and saves it |
 | [Mock Data Generator](https://github.com/mohsen12999/mock-data-generator)) | A simple project designed to create mock datasets |
 | [My Python Cli](https://github.com/mohsen12999/my-python-cli)| a simple python Cli for helping to make python |
 
