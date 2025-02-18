@@ -1,16 +1,16 @@
 Hi 👋, I'm `Mohsen Shabanian`.
 
-I'm a self-taught developer with a passion for continuous learning and growth. My programming journey began with QBasic and Pascal, progressing to C and C++ for both computer and microcontroller applications. In recent years, I've expanded my expertise to web development, utilizing C# and PHP to build dynamic applications.
+I'm a self-taught developer with a passion for continuous learning and growth. My programming journey began with QBasic and Pascal, progressing to C and C++ for both computer and microcontroller applications. I've expanded my expertise to web development in recent years, utilizing C# and PHP to build dynamic applications.
 
-I'm committed to refining my skills and contributing to innovative projects. Feel free to explore my repositories and connect with me for collaboration opportunities.
+I'm committed to refining my skills and contributing to innovative projects. Please explore my repositories and contact me for collaboration opportunities.
 
 ## Skills :hammer_and_wrench:
 
 * C# :bowtie:
-* HTML, CSS, JAVASCRIPT :smile: 
-* C / C++ :smiley:
 * PHP :relaxed:
 * python :satisfied: 
+* HTML, CSS, JAVASCRIPT :smile: 
+* C / C++ :smiley:
 
 ## My Repos :books:
 
