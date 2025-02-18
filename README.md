@@ -1,6 +1,8 @@
 Hi 👋, I'm `Mohsen Shabanian`.
 
-As a developer, I mostly self-study. Qbasic and Pascal were my first programming languages. After that, I wrote C and C++ programs for computers and microcontrollers. I've developed web applications using C# and PHP in recent years.
+I'm a self-taught developer with a passion for continuous learning and growth. My programming journey began with QBasic and Pascal, progressing to C and C++ for both computer and microcontroller applications. In recent years, I've expanded my expertise to web development, utilizing C# and PHP to build dynamic applications.
+
+I'm committed to refining my skills and contributing to innovative projects. Feel free to explore my repositories and connect with me for collaboration opportunities.
 
 ## Skills :hammer_and_wrench:
 
@@ -24,6 +26,7 @@ As a developer, I mostly self-study. Qbasic and Pascal were my first programming
 | [Project Euler Python](https://github.com/mohsen12999/project_euler_python) | try to solve some Euler problems with python. |
 | [sudoku c#](https://github.com/mohsen12999/sudoku) | try to write a program to solve sudoku in C#, but it does not work yet. |
 | [website Omid shirodi](https://github.com/mohsen12999/website-omid-shirodi) | The HTML template for an artist and music teacher. |
+
 
 ##  Let's Connect 😎
 
